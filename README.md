@@ -1,15 +1,33 @@
-Wavex Company Sales Insights Dashboard
-This project involves the development of a comprehensive Power BI dashboard for Wavex Company, utilizing sales data spanning four years (2019-2022). The dashboard provides insightful analyses into various aspects of sales performance, helping to drive data-driven decision-making.
+ Wavex Company Sales Insights Dashboard
 
-Key Features:
-Sales by Category: Breakdown of sales figures by product categories.
+A Power BI dashboard project analyzing four years of Wavex Company’s sales data (2019–2022) to uncover actionable business insights and drive growth.
 
-Top Distributors: Identification of leading distributors contributing to the sales volume.
+🔑 Key Insights
 
-Revenue Growth: Analysis of year-over-year revenue growth.
+📌 Top & Least Selling Products Identified at each place of selling.
 
-Sales Payment Methods: Overview of sales by different payment methods.
+🎯 Boosted high-selling products with offers, leading to a 27% increase in sales across regions.
 
-Geographical Sales Distribution: Visualization of sales data by country using a map.
+💰 Improved overall company revenue by 19%.
 
-This project aims to empower stakeholders with actionable insights through intuitive visualizations, enhancing the company's strategic planning and operational efficiency.
+🏆 Electronics emerged as the highest-selling category; Accessories the lowest.
+
+🌍 United States was the top market, followed by India and Germany.
+
+💳 Credit Card payments dominated, showing strong digital adoption.
+
+📈 Business Impact
+
+Data-driven strategies implemented to optimize product focus.
+
+Increased operational efficiency and revenue growth.
+
+Clear visibility into distributor performance and regional sales trends.
+
+🛠 Tools & Technologies
+
+Power BI – Dashboard design & interactive visualizations.
+
+Excel/CSV – Data source.
+
+Power Query & DAX – Data cleaning, transformation & calculations.
